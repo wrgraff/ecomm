@@ -1,1 +1,34 @@
-[{"email":"test@test.test","password":"password"},{"email":"test@test.test","password":"password"},{"email":"test@test.test","password":"password"},{"email":"test@test.test","password":"password"},{"email":"test@test.test","password":"password"}]
+[
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  },
+  {
+    "email": "test@test.test",
+    "password": "password"
+  }
+]
